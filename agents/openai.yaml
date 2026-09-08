@@ -1,0 +1,4 @@
+interface:
+  display_name: "猎聘 Search 工作流"
+  short_description: "按JD和要求搜索筛选猎聘候选人并整理为可复用表格结果"
+  default_prompt: "Use $liepin-searching to search and shortlist candidates from this JD and requirement."

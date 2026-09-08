@@ -1,0 +1,16 @@
+.DS_Store
+*.log
+case-config.md
+search-log.md
+outputs/
+cases/
+*.xlsx
+*.csv
+*.pdf
+*.html
+*.jsonl
+.env
+.env.*
+*.cookie
+cookies/
+downloads/
